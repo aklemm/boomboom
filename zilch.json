@@ -1,0 +1,9 @@
+{
+  "v": 1,
+  "name": "boomboom",
+  "avatar": "WmEaaGemaW0VZ0ceG",
+  "preferredColor": "cerulean",
+  "language": "javascript.node",
+  "game": "table-tennis",
+  "run": "node main.js"
+}
